@@ -28,6 +28,20 @@
       <module>cloud-center-config3344</module>
       <module>cloud-config-client3355</module>
       <module>cloud-config-client3366</module>
+      <module>cloud-stream-rabbitmq-provider8801</module>
+    <module>cloud-stream-rabbitmq-consumer8802</module>
+    <module>cloud-stream-rabbitmq-consumer8803</module>
+    <module>cloudalibaba-provider-payment9001</module>
+    <module>cloudalibaba-provider-payment9002</module>
+    <module>cloud-consumer-nacos-order83</module>
+      <module>alibaba-config-nacos-client13377</module>
+    <module>cloudalibaba-sentinel-service8041</module>
+      <module>cloudalibaba-provider-payment9003</module>
+      <module>cloudalibaba-provider-payment9004</module>
+      <module>cloudalibaba-consumer-nocas-order84</module>
+      <module>seata-order-service2001</module>
+      <module>seata-stroage-service2002</module>
+      <module>Seata-account-service2003</module>
   </modules>
 
 
